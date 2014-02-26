@@ -7,7 +7,7 @@ Uses Complex (https://github.com/woodrufw/Complex) to graph the equation on the 
 
 ### Building
 ```
-git clone http://github.com/woodrufw/Fractal
+git clone http://github.com/woodruffw/Fractal
 cd Fractal
 make
 ```
